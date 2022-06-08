@@ -1,0 +1,4 @@
+email_adres receiver = cinemaapp.example.com@gmail.com
+password receiver = CinemaTest
+email_adres sender = dutchcinemas2022@gmail.com
+password sender = CinemaApp

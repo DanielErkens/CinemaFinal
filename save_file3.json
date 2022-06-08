@@ -1,0 +1,62 @@
+[
+  {
+    "movieName": "Lord of the Rings The Fellowship of the Ring",
+    "playTime": "3 Hours",
+    "description": "In a small, cozy village in Middle-earth, a ring with \nspecial powers happens to be in the hands of the hobbit Frodo. \nIt is an instrument that would enable Sauron, \nthe dark ruler of the kingdom of Mordor, to take over the world.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "Lord of the Rings The Two Towers",
+    "playTime": "3 Hours",
+    "description": "The various members of the society try to help Frodo in their own way. \nThe mysterious creature Gollum leads Frodo and Sam to Mordor.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "Lord of the Rings The Return of the King",
+    "playTime": "3 Hours and 30 minutes",
+    "description": "The society prepares for the final battle against Sauron. \nWhile Frodo tries to destroy the ring, \nAragorn leads his army against Sauron\u0027s orcs.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "The Hobbit An Unexpected Journey",
+    "playTime": "2 Hours and 50 minutes",
+    "description": "The Hobbit Bilbo joins dwarves looking to retake their kingdom after \nit is conquered by the fearsome dragon Smaug.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "The Hobbit The Desolation of Smaug",
+    "playTime": "2 Hours and 50 minutes",
+    "description": "After many exciting adventures, Bilbo and the dwarves \nfinally reach Mount Erebor where the dragon Smaug awaits them.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "The Hobbit The Battle of the Five Armies",
+    "playTime": "2 Hours and 24 minutes",
+    "description": "After retaking their kingdom from the dragon Smaug, Bilbo, Thorin, \nand the company of dwarves unwittingly unleash a deadly force on the world. \nObsessed with his gold treasure, Thorin sacrifices his friendship \nand honor and forces Bilbo to make an almost impossible decision.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "Spider-man: No Way Home",
+    "playTime": "2 Hours and 30 minutes",
+    "description": "For the very first time in the history of the Spider-Man movies, \nour friendly superhero has been exposed and can no longer keep his normal life \nseparate from his dangerous life as a superhero. When he turns to \nDoctor Strange for help, the stakes are higher than ever before. \nThis forces him to face what it really means to be Spider-Man.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "6 Underground",
+    "playTime": "2 Hours and 8 minutes",
+    "description": "Six talented people are selected to fake their deaths. \nThey form an elite unit around a mysterious leader and set out \nto improve the future.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "The Hitman\u0027s Bodyguard",
+    "playTime": "2 Hours",
+    "description": "The world\u0027s best bodyguard takes on a new assignment: protecting a hit man. \nThey must team up to get to The Hague within 24 hours \nto take down a murderous dictator.",
+    "moviePrice": 12.5
+  },
+  {
+    "movieName": "Deadpool",
+    "playTime": "1 Hour and 48 minutes",
+    "description": "Wade Wilson is tortured and given superpowers by a mad scientist. \nArmed with his powers - and sense of humor - he decides to take revenge.",
+    "moviePrice": 12.5
+  }
+]

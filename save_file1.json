@@ -1,0 +1,100 @@
+[
+  {
+    "username": "danielerkens",
+    "password": "hello",
+    "PaymentCode": "12345",
+    "orderList": {
+      "drinks": [],
+      "food": [],
+      "foodcounter": 0,
+      "drinkcounter": 0
+    },
+    "ticketList": [],
+    "ticketListIndex": 0
+  },
+  {
+    "username": "test",
+    "password": "test123",
+    "PaymentCode": "12345",
+    "orderList": {
+      "drinks": [
+        {
+          "PriceOfChoiceDrink": 2.49,
+          "HowManyOfDrink": 2,
+          "NameOfDrink": "Coca Cola"
+        }
+      ],
+      "food": [
+        {
+          "PriceOfChoiceFood": 2.49,
+          "HowManyOfFood": 1,
+          "NameOfFood": "Snickers"
+        }
+      ],
+      "foodcounter": 0,
+      "drinkcounter": 0
+    },
+    "ticketList": [],
+    "ticketListIndex": 0
+  },
+  {
+    "username": "happy",
+    "password": "happy",
+    "PaymentCode": "12345",
+    "orderList": {
+      "drinks": [
+        {
+          "PriceOfChoiceDrink": 2.49,
+          "HowManyOfDrink": 1,
+          "NameOfDrink": "Coca Cola"
+        }
+      ],
+      "food": [
+        {
+          "PriceOfChoiceFood": 2.49,
+          "HowManyOfFood": 1,
+          "NameOfFood": "Snickers"
+        }
+      ],
+      "foodcounter": 0,
+      "drinkcounter": 0
+    },
+    "ticketList": [
+      {
+        "howManyOfMovie": 1,
+        "nameOfMovie": "Lord of the Rings The Fellowship of the Ring",
+        "priceOfMovie": 12.5,
+        "RowOfSeats": 0,
+        "ChosenChairs": [
+          0
+        ],
+        "ChosenMovie": {
+          "movieName": "Lord of the Rings The Fellowship of the Ring",
+          "playTime": "3 Hours",
+          "description": "In a small, cozy village in Middle-earth, a ring with \nspecial powers happens to be in the hands of the hobbit Frodo. \nIt is an instrument that would enable Sauron, \nthe dark ruler of the kingdom of Mordor, to take over the world.",
+          "moviePrice": 12.5
+        },
+        "ChosenChairsTuple": [
+          {
+            "Item1": 0,
+            "Item2": 0
+          }
+        ]
+      }
+    ],
+    "ticketListIndex": 28
+  },
+  {
+    "username": "newacc",
+    "password": "newacc",
+    "PaymentCode": "12345",
+    "orderList": {
+      "drinks": [],
+      "food": [],
+      "foodcounter": 0,
+      "drinkcounter": 0
+    },
+    "ticketList": [],
+    "ticketListIndex": 0
+  }
+]
